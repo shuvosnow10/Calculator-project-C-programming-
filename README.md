@@ -1,5 +1,20 @@
-# Calculator-project-C-programming-
+# Simple-Calculator-project-C-programming-
 This is small beginner level C programming project . it's a normal calculator program .
+
+
+
+
+
+
+
+
+
+
+
+
+Here is the code:----
+
+
 
 #include <stdio.h>
 #include <math.h>
