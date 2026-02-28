@@ -56,8 +56,13 @@ int main()
     printf("The result =%lf", result);
     break;
   case '/':
+    if(num2==0){
+    printf("Syntax Error");
+    }
+    else{
     result = num1 / num2;
     printf("The result=%lf", result);
+    }
     break;
   default:
     printf("\n%c Is not a valued operator ", oparetor);
