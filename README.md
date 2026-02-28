@@ -4,8 +4,13 @@ This is small beginner level C programming project . it's a normal calculator pr
 
 
 
-
-
+Here,
+     '+'=Additation.
+     '-'=Substraction.
+     '/'=Division.
+     '^'=Power.
+     '~'=Root.
+and (Nmber/0) is managed.
 
 
 
